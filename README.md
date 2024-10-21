@@ -1,2 +1,3 @@
 # colour-to-greyscaleconvt.
-simple colour to greyscale image converting program using opencv 
+Simple colour to greyscale image converting program using opencv <br>
+install OpenCV library: pip install opencv-python
